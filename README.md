@@ -34,16 +34,22 @@ My next goal is to expand into **C#** and explore new technologies while improvi
 
 
 ---
+<div align="left" width="100%">
 
 ```cpp
 class AboutMe {
 public:
     const char* name = "Mohamed Abu Awimer";
     const short age  = 20;
+    const char* country  = "Palistine";
     const char* focus    = "C++ | Problem Solving | Data Structures | Algorithms";
     const char* nextGoal = "Mastering C# and exploring backend development";
     const char* mindset  = "Keep learning, keep building, keep improving.";
 };
+
+</div>
+
+
 ```
 
 ---

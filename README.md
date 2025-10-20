@@ -1,57 +1,72 @@
-<div align="center">
-  <img height="255" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"  />
+<div align="center" width="50%">
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">I'm Mohamed Owaymr from Palistine-Gaza<br><br>- 🔭 I’m studing programming.<br>- 📚 Currently learning C++, OOP and problem-solving using Visual Studio Code to build my skills .<br>- ⚡ In my free time I wach films.</p>
-
-###
-
-<h2 align="left">🛠️ Skills & Tools</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+### 👋 Hey there, I'm **Mohamed Abu Awimer**  
+🎯 20 years old | 💻 Passionate C++ Developer | 🚀 Future Software Engineer | From Palistine-Gaza
+
+---
+
+I'm currently building a **strong foundation in programming** using **C++** — focusing deeply on problem solving, data structures, and algorithms.  
+Through designing multiple **C++ projects**, I’ve learned a lot about how computers work internally and how to write clean, efficient code.  
+
+My next goal is to expand into **C#** and explore new technologies while improving my **core programming mindset** for a strong future in software development.  
+
+---
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+
+
+---
+
+## ⚙️ Tools & Technologies I Use
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+```cpp
+class AboutMe {
+public:
+    const char* name = "Mohamed Abu Awimer";
+    const short age  = 20;
+    const char* focus    = "C++ | Problem Solving | Data Structures | Algorithms";
+    const char* nextGoal = "Mastering C# and exploring backend development";
+    const char* mindset  = "Keep learning, keep building, keep improving.";
+};
+```
+
+---
+
+## 🧠 Currently Learning
+- Data Structures & Algorithms (C++).
+- Software design & clean code principles.
+- Preparing to learn **C#**.
+
+---
+
+## 🎯 Goals
+- Strengthen my core programming knowledge.  
+- Build more real-world C++ projects.  
+- Become a strength backend developer in the future.  
+
+---
+
+## 🌍 Find Me Online
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Owaymr)
+
+---
+  
+**Keep learning. Keep coding. Keep growing.**
+
 </div>
-
-###
-
-<h2 align="left">📬 Contact Information</h2>
-
-###
-
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedowaymr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Owaymr.Mohamed-Owaymr&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Owaymr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###

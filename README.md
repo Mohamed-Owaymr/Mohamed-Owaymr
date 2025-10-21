@@ -72,7 +72,7 @@ public:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Owaymr)
 
 ---
-<div align="center" >**Keep learning. Keep coding. Keep growing.**</div>
+**<div align= "center" >Keep learning. Keep coding. Keep growing.</div>**
 
 
 </div>

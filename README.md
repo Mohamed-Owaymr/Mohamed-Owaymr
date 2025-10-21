@@ -17,11 +17,6 @@ Through designing multiple **C++ projects**, I’ve learned a lot about how comp
 
 My next goal is to expand into **C#** and explore new technologies while improving my **core programming mindset** for a strong future in software development.  
 
----
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-
 
 ---
 

@@ -70,7 +70,7 @@ public:
 
 ## 🌍 Find Me Online
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Owaymr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedowaymr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.awimer@gmail.com)
 
 ---
 **<div align= "center" >Keep learning. Keep coding. Keep growing.</div>**

@@ -41,9 +41,8 @@ public:
     const char* nextGoal = "Mastering C# and exploring backend development";
     const char* mindset  = "Keep learning, keep building, keep improving.";
 };
-
 ```
-
+---
 ## 🧠 Currently Learning
 - Data Structures & Algorithms (C++).
 - Software design & clean code principles.

@@ -86,9 +86,11 @@ Sunday                           ██████░░░░░░░░░�
 
 ## 🌍 Find Me Online
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Owaymr)
+
+---
+## 📧 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mohamedowaymr@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/970592181529)
-
 ---
 **<div align= "center" >Keep learning. Keep coding. Keep growing.</div>**
 

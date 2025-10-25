@@ -42,12 +42,7 @@ public:
     const char* mindset  = "Keep learning, keep building, keep improving.";
 };
 
-</div>
-
-
 ```
-
----
 
 ## 🧠 Currently Learning
 - Data Structures & Algorithms (C++).

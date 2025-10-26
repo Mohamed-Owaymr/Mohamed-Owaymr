@@ -1,10 +1,6 @@
-<div align="center" width="50%">
-
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 <div align="center">
 
 ### 👋 Hey there, I'm **Mohamed Abu Awimer**  

@@ -8,7 +8,7 @@
 <div align="center">
 
 ### 👋 Hey there, I'm **Mohamed Abu Awimer**  
-🎯 20 years old | 💻 Passionate C++ Developer | 🚀 Future Software Engineer | From Palistine-Gaza
+🎯 20 years old | 💻 Passionate C++ Developer | 🚀 Future Backend Developer | From Palistine-Gaza
 
 ---
 

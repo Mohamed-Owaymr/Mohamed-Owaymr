@@ -76,6 +76,7 @@ Sunday                           ██████░░░░░░░░░�
 
 ## 🌍 Find Me Online
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Owaymr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abu-awimer-53a714395)
 
 ---
 
